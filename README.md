@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the starter template for the better-commons application.
+
+Beginning from the next.js tutorial blog example.
